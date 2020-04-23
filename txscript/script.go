@@ -265,6 +265,16 @@ func removeOpcodeByData(pkscript []parsedOpcode, data []byte) []parsedOpcode {
 
 }
 
+// CalcSignatureHash sectoken 添加
+func CalcSignatureHash(subScript []byte, hashType SigHashType, tx *wire.MsgTx, idx int) ([]byte, error) {
+	parsedScript, err := parseScript(subScript)
+	if err != nil {
+		return nil, fmt.Errorf("cannot parse output script: %v", err)
+	}
+	sig := calcSignatureHash(parsedScript, hashType, tx, idx)
+	return sig, nil
+}
+
 // calcSignatureHash will, given a script and hash type for the current script
 // engine instance, calculate the signature hash to be used for signing and
 // verification.
