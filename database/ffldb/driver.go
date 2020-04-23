@@ -8,7 +8,7 @@ package ffldb
 import (
 	"fmt"
 
-	"github.com/btcsuite/btclog"
+	"github.com/sectoken-dev/btclog"
 	"github.com/sectoken-dev/godash/database"
 	"github.com/sectoken-dev/godash/wire"
 )

@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/btcsuite/btclog"
+	"github.com/sectoken-dev/btclog"
 	"github.com/sectoken-dev/godash/blockchain"
 	"github.com/sectoken-dev/godash/blockchain/indexers"
 	"github.com/sectoken-dev/godash/database"

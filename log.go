@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/btcsuite/btclog"
+	"github.com/sectoken-dev/btclog"
 	"github.com/btcsuite/seelog"
 	"github.com/sectoken-dev/godash/addrmgr"
 	"github.com/sectoken-dev/godash/blockchain"

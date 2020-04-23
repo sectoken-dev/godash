@@ -1,6 +1,6 @@
 package: github.com/sectoken-dev/godash
 import:
-- package: github.com/btcsuite/btclog
+- package: github.com/sectoken-dev/btclog
 - package: github.com/sectoken-dev/godashutil
   subpackages:
   - .

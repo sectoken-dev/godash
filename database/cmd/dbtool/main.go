@@ -11,7 +11,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/btcsuite/btclog"
+	"github.com/sectoken-dev/btclog"
 	flags "github.com/btcsuite/go-flags"
 	"github.com/sectoken-dev/godash/database"
 )

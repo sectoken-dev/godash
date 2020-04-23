@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/btcsuite/btclog"
+	"github.com/sectoken-dev/btclog"
 	"github.com/sectoken-dev/godashutil"
 )
 

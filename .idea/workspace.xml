@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b72787cb-720c-49e2-ad7b-c1aae851d161" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b72787cb-720c-49e2-ad7b-c1aae851d161" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,9 +41,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587628062887" />
-    <state x="661" y="259" width="597" height="584" key="find.popup" timestamp="1587628037823">
+    <state x="661" y="259" width="597" height="584" key="find.popup" timestamp="1587628127366">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="661" y="259" width="597" height="584" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1587628037823" />
+    <state x="661" y="259" width="597" height="584" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1587628127366" />
   </component>
 </project>

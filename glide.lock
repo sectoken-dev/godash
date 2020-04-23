@@ -1,7 +1,7 @@
 hash: 9b8ff781a12daad991983e9a421a320e905eecc4e9ff0b0643e790f472bc78c8
 updated: 2016-05-06T10:10:16.348595-05:00
 imports:
-- name: github.com/btcsuite/btclog
+- name: github.com/sectoken-dev/btclog
   version: f96df2375f37300305f329b8e5258764b4f19a7f
 - name: github.com/sectoken-dev/godashutil
   version: 2187ca894b87133a0a14228d6a3d5450b0eb0553

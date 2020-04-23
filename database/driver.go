@@ -8,7 +8,7 @@ package database
 import (
 	"fmt"
 
-	"github.com/btcsuite/btclog"
+	"github.com/sectoken-dev/btclog"
 )
 
 // Driver defines a structure for backend drivers to use when they registered

@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/btcsuite/btclog"
+	"github.com/sectoken-dev/btclog"
 	"github.com/sectoken-dev/godash/txscript"
 	"github.com/sectoken-dev/godash/wire"
 )
