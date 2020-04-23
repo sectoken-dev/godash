@@ -8,8 +8,8 @@ package blockchain
 import (
 	"math"
 
-	"github.com/dashpay/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godash/wire"
+	"github.com/sectoken-dev/godashutil"
 )
 
 // nextPowerOfTwo returns the next highest power of two from a given number if

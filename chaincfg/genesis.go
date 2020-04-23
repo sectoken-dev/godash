@@ -8,7 +8,7 @@ package chaincfg
 import (
 	"time"
 
-	"github.com/dashpay/godash/wire"
+	"github.com/sectoken-dev/godash/wire"
 )
 
 // genesisCoinbaseTx is the coinbase transaction for the genesis blocks for

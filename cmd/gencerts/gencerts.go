@@ -14,7 +14,7 @@ import (
 	"time"
 
 	flags "github.com/btcsuite/go-flags"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godashutil"
 )
 
 type config struct {

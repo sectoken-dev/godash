@@ -10,9 +10,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/dashpay/godash/chaincfg"
-	"github.com/dashpay/godash/database"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godash/chaincfg"
+	"github.com/sectoken-dev/godash/database"
+	"github.com/sectoken-dev/godashutil"
 )
 
 // BenchmarkBlockHeader benchmarks how long it takes to load the mainnet genesis

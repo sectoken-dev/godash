@@ -13,9 +13,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dashpay/godash/database"
-	"github.com/dashpay/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godash/database"
+	"github.com/sectoken-dev/godash/wire"
+	"github.com/sectoken-dev/godashutil"
 )
 
 // importCmd defines the configuration options for the insecureimport command.

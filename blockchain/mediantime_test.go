@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dashpay/godash/blockchain"
+	"github.com/sectoken-dev/godash/blockchain"
 )
 
 // TestMedianTime tests the medianTime implementation.

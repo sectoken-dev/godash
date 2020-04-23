@@ -15,7 +15,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/dashpay/godash/btcec"
+	"github.com/sectoken-dev/godash/btcec"
 )
 
 // TestAddJacobian tests addition of points projected in Jacobian coordinates.

@@ -8,11 +8,11 @@ package blockchain
 import (
 	"fmt"
 
-	"github.com/dashpay/godash/chaincfg"
-	"github.com/dashpay/godash/database"
-	"github.com/dashpay/godash/txscript"
-	"github.com/dashpay/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godash/chaincfg"
+	"github.com/sectoken-dev/godash/database"
+	"github.com/sectoken-dev/godash/txscript"
+	"github.com/sectoken-dev/godash/wire"
+	"github.com/sectoken-dev/godashutil"
 )
 
 // CheckpointConfirmations is the number of blocks before the end of the current

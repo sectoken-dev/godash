@@ -9,7 +9,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/dashpay/godash/btcec"
+	"github.com/sectoken-dev/godash/btcec"
 	"github.com/davecgh/go-spew/spew"
 )
 

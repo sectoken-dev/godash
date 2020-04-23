@@ -9,7 +9,7 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/dashpay/godash/wire"
+	"github.com/sectoken-dev/godash/wire"
 )
 
 const (

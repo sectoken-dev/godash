@@ -15,12 +15,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dashpay/godash/blockchain"
-	"github.com/dashpay/godash/blockchain/indexers"
-	"github.com/dashpay/godash/mining"
-	"github.com/dashpay/godash/txscript"
-	"github.com/dashpay/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godash/blockchain"
+	"github.com/sectoken-dev/godash/blockchain/indexers"
+	"github.com/sectoken-dev/godash/mining"
+	"github.com/sectoken-dev/godash/txscript"
+	"github.com/sectoken-dev/godash/wire"
+	"github.com/sectoken-dev/godashutil"
 )
 
 const (

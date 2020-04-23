@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/dashpay/godash/btcjson"
+	"github.com/sectoken-dev/godash/btcjson"
 )
 
 const (

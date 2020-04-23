@@ -12,7 +12,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dashpay/godash/btcjson"
+	"github.com/sectoken-dev/godash/btcjson"
 )
 
 // TestChainSvrWsNtfns tests all of the chain server websocket-specific

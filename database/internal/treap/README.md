@@ -34,16 +34,16 @@ available for use outside of it.
 
 ## Documentation
 
-[![GoDoc](https://godoc.org/github.com/dashpay/godash/database/internal/treap?status.png)]
-(http://godoc.org/github.com/dashpay/godash/database/internal/treap)
+[![GoDoc](https://godoc.org/github.com/sectoken-dev/godash/database/internal/treap?status.png)]
+(http://godoc.org/github.com/sectoken-dev/godash/database/internal/treap)
 
 Full `go doc` style documentation for the project can be viewed online without
 installing this package by using the GoDoc site here:
-http://godoc.org/github.com/dashpay/godash/database/internal/treap
+http://godoc.org/github.com/sectoken-dev/godash/database/internal/treap
 
 You can also view the documentation locally once the package is installed with
 the `godoc` tool by running `godoc -http=":6060"` and pointing your browser to
-http://localhost:6060/pkg/github.com/dashpay/godash/database/internal/treap
+http://localhost:6060/pkg/github.com/sectoken-dev/godash/database/internal/treap
 
 ## License
 

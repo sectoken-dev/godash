@@ -8,7 +8,7 @@ package wire_test
 import (
 	"testing"
 
-	"github.com/dashpay/godash/wire"
+	"github.com/sectoken-dev/godash/wire"
 )
 
 // TestServiceFlagStringer tests the stringized output for service flag types.

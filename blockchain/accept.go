@@ -5,7 +5,7 @@
 
 package blockchain
 
-import "github.com/dashpay/godashutil"
+import "github.com/sectoken-dev/godashutil"
 
 // maybeAcceptBlock potentially accepts a block into the memory block chain.
 // It performs several validation checks which depend on its position within

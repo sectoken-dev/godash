@@ -1,4 +1,4 @@
-module github.com/dashpay/godash
+module github.com/sectoken-dev/godash
 
 go 1.13
 
@@ -13,6 +13,6 @@ require (
 	github.com/btcsuite/snappy-go v0.0.0-20151229074030-0bdef8d06723
 	github.com/btcsuite/websocket v0.0.0-20150119174127-31079b680792
 	github.com/btcsuite/winsvc v1.0.0
-	github.com/dashpay/godashutil v0.0.0-20160725171742-2187ca894b87
+	github.com/sectoken-dev/godashutil v0.0.0-20160725171742-2187ca894b87
 	github.com/davecgh/go-spew v0.0.0-20151105211317-5215b55f46b2
 )

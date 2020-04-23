@@ -8,7 +8,7 @@ package wire_test
 import (
 	"io"
 
-	"github.com/dashpay/godash/wire"
+	"github.com/sectoken-dev/godash/wire"
 )
 
 // fakeMessage implements the wire.Message interface and is used to force

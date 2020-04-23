@@ -13,7 +13,7 @@ import (
 
 	"github.com/btcsuite/btclog"
 	flags "github.com/btcsuite/go-flags"
-	"github.com/dashpay/godash/database"
+	"github.com/sectoken-dev/godash/database"
 )
 
 const (

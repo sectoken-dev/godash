@@ -9,7 +9,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/dashpay/godash/txscript"
+	"github.com/sectoken-dev/godash/txscript"
 )
 
 // TestScriptBuilderAddOp tests that pushing opcodes to a script via the

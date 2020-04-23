@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/btcsuite/btclog"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godashutil"
 )
 
 // blockProgressLogger provides periodic logging for other services in order

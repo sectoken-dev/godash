@@ -10,10 +10,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/dashpay/godash/blockchain"
-	"github.com/dashpay/godash/chaincfg"
-	"github.com/dashpay/godash/database"
-	"github.com/dashpay/godash/wire"
+	"github.com/sectoken-dev/godash/blockchain"
+	"github.com/sectoken-dev/godash/chaincfg"
+	"github.com/sectoken-dev/godash/database"
+	"github.com/sectoken-dev/godash/wire"
 )
 
 const blockDbNamePrefix = "blocks"

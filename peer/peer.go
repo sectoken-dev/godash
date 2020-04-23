@@ -19,9 +19,9 @@ import (
 	"time"
 
 	"github.com/btcsuite/go-socks/socks"
-	"github.com/dashpay/godash/blockchain"
-	"github.com/dashpay/godash/chaincfg"
-	"github.com/dashpay/godash/wire"
+	"github.com/sectoken-dev/godash/blockchain"
+	"github.com/sectoken-dev/godash/chaincfg"
+	"github.com/sectoken-dev/godash/wire"
 	"github.com/davecgh/go-spew/spew"
 )
 

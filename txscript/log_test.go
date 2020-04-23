@@ -11,7 +11,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/dashpay/godash/txscript"
+	"github.com/sectoken-dev/godash/txscript"
 )
 
 func TestSetLogWriter(t *testing.T) {

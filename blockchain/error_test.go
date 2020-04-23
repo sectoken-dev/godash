@@ -8,7 +8,7 @@ package blockchain_test
 import (
 	"testing"
 
-	"github.com/dashpay/godash/blockchain"
+	"github.com/sectoken-dev/godash/blockchain"
 )
 
 // TestErrorCodeStringer tests the stringized output for the ErrorCode type.

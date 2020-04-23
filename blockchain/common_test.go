@@ -14,11 +14,11 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/dashpay/godash/blockchain"
-	"github.com/dashpay/godash/chaincfg"
-	"github.com/dashpay/godash/database"
-	_ "github.com/dashpay/godash/database/ffldb"
-	"github.com/dashpay/godash/wire"
+	"github.com/sectoken-dev/godash/blockchain"
+	"github.com/sectoken-dev/godash/chaincfg"
+	"github.com/sectoken-dev/godash/database"
+	_ "github.com/sectoken-dev/godash/database/ffldb"
+	"github.com/sectoken-dev/godash/wire"
 )
 
 const (

@@ -11,11 +11,11 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/dashpay/godash/chaincfg"
-	"github.com/dashpay/godash/database"
-	_ "github.com/dashpay/godash/database/ffldb"
-	"github.com/dashpay/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godash/chaincfg"
+	"github.com/sectoken-dev/godash/database"
+	_ "github.com/sectoken-dev/godash/database/ffldb"
+	"github.com/sectoken-dev/godash/wire"
+	"github.com/sectoken-dev/godashutil"
 )
 
 // This example demonstrates creating a new database.
@@ -23,8 +23,8 @@ func ExampleCreate() {
 	// This example assumes the ffldb driver is imported.
 	//
 	// import (
-	// 	"github.com/dashpay/godash/database"
-	// 	_ "github.com/dashpay/godash/database/ffldb"
+	// 	"github.com/sectoken-dev/godash/database"
+	// 	_ "github.com/sectoken-dev/godash/database/ffldb"
 	// )
 
 	// Create a database and schedule it to be closed and removed on exit.
@@ -49,8 +49,8 @@ func Example_basicUsage() {
 	// This example assumes the ffldb driver is imported.
 	//
 	// import (
-	// 	"github.com/dashpay/godash/database"
-	// 	_ "github.com/dashpay/godash/database/ffldb"
+	// 	"github.com/sectoken-dev/godash/database"
+	// 	_ "github.com/sectoken-dev/godash/database/ffldb"
 	// )
 
 	// Create a database and schedule it to be closed and removed on exit.
@@ -115,8 +115,8 @@ func Example_blockStorageAndRetrieval() {
 	// This example assumes the ffldb driver is imported.
 	//
 	// import (
-	// 	"github.com/dashpay/godash/database"
-	// 	_ "github.com/dashpay/godash/database/ffldb"
+	// 	"github.com/sectoken-dev/godash/database"
+	// 	_ "github.com/sectoken-dev/godash/database/ffldb"
 	// )
 
 	// Create a database and schedule it to be closed and removed on exit.
