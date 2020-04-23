@@ -2,6 +2,8 @@ github.com/btcsuite/btclog v0.0.0-20160407183224-f96df2375f37 h1:ggDnNkWqX4ZIdWF
 github.com/btcsuite/btclog v0.0.0-20160407183224-f96df2375f37/go.mod h1:TdznJufoqS23FtqVCzL0ZqgP5MqXbb4fg/WgDys70nA=
 github.com/btcsuite/fastsha256 v0.0.0-20150409163857-302ad4db268b h1:pQJlxxu9asjq07P/LaqRhrg2KFDA3X26QaQjg1F7Quk=
 github.com/btcsuite/fastsha256 v0.0.0-20150409163857-302ad4db268b/go.mod h1:QcFA8DZHtuIAdYKCq/BzELOaznRsCvwf4zTPmaYwaig=
+github.com/btcsuite/fastsha256 v0.0.0-20160815193821-637e65642941 h1:kij1x2aL7VE6gtx8KMIt8PGPgI5GV9LgtHFG5KaEMPY=
+github.com/btcsuite/fastsha256 v0.0.0-20160815193821-637e65642941/go.mod h1:QcFA8DZHtuIAdYKCq/BzELOaznRsCvwf4zTPmaYwaig=
 github.com/btcsuite/go-flags v0.0.0-20150116065318-6c288d648c1c h1:jYE+0osxEwZMwnJkGJCiQZKLhMFMR6+G8QxtFtL9/Zw=
 github.com/btcsuite/go-flags v0.0.0-20150116065318-6c288d648c1c/go.mod h1:FAMFTQ1iW6ewsFxRHGOzmtOgCNMIw1ks4L86fZ3nNaw=
 github.com/btcsuite/go-socks v0.0.0-20150513194711-cfe8b59e565c h1:inRCE+ak0U7PVBRr5wK/wwav5JN0UnsNLR65lHIiADE=
@@ -18,12 +20,10 @@ github.com/btcsuite/websocket v0.0.0-20150119174127-31079b680792 h1:R8vQdOQdZ9Y3
 github.com/btcsuite/websocket v0.0.0-20150119174127-31079b680792/go.mod h1:ghJtEyQwv5/p4Mg4C0fgbePVuGr935/5ddU9Z3TmDRY=
 github.com/btcsuite/winsvc v1.0.0 h1:J9B4L7e3oqhXOcm+2IuNApwzQec85lE+QaikUcCs+dk=
 github.com/btcsuite/winsvc v1.0.0/go.mod h1:jsenWakMcC0zFBFurPLEAyrnc/teJEM1O46fmI40EZs=
-github.com/dashpay/godash v0.0.0-20160726055534-e038a21e0e3d h1:G/W65kLSxo2t9TW8HnhvvkKC5ONRcGW0Pe7wc5wELJo=
-github.com/dashpay/godash v0.0.0-20160726055534-e038a21e0e3d/go.mod h1:6yym96ekUUPaK8+YXQTwVrgmYOwgvgq6i92bG2q8V/Q=
-github.com/dashpay/godashutil v0.0.0-20160725171742-2187ca894b87 h1:4YfItvNLVu5/upJ3LW8AiylqYZ7UBOWgXhlgxVY0KF4=
-github.com/dashpay/godashutil v0.0.0-20160725171742-2187ca894b87/go.mod h1:yfOgTSdv7AN8IFc2oeC+7gZ034qcBLw89G9fcDBiYRE=
 github.com/davecgh/go-spew v0.0.0-20151105211317-5215b55f46b2 h1:5zdDAMuB3gvbHB1m2BZT9+t9w+xaBmK3ehb7skDXcwM=
 github.com/davecgh/go-spew v0.0.0-20151105211317-5215b55f46b2/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/fsnotify/fsnotify v1.4.7 h1:IXs+QLmnXW2CcXuY+8Mzv/fWEsPGWxqefPtCP5CnV9I=
 github.com/fsnotify/fsnotify v1.4.7/go.mod h1:jwhsz4b93w/PPRr/qN1Yymfu8t87LnFCMoQvtojpjFo=
 github.com/golang/protobuf v1.2.0 h1:P3YflyNX/ehuJFLhxviNdFxQPkGK5cDcApsge1SqnvM=
@@ -36,8 +36,11 @@ github.com/onsi/ginkgo v1.12.0/go.mod h1:oUhWkIvk5aDxtKvDDuw8gItl8pKl42LzjC9KZE0
 github.com/onsi/gomega v1.7.1/go.mod h1:XdKZgCCFLUoM/7CFJVPcG8C1xQ1AJ0vpAezJrB7JYyY=
 github.com/onsi/gomega v1.9.0 h1:R1uwffexN6Pr340GtYRIdZmAiN4J+iw6WG4wog1DUXg=
 github.com/onsi/gomega v1.9.0/go.mod h1:Ho0h+IUsWyvy1OpqCwxlQ/21gkhVunqlU8fDGcoTdcA=
+github.com/sectoken-dev/godash v0.0.0-20200423072336-ac8ce96b09dd/go.mod h1:98ZZ5Gy1ThCCoAsl1k5BCaLI9nVau9ENaOpreh2lLUY=
 github.com/sectoken-dev/godashutil v0.0.0-20160725171742-2187ca894b87 h1:VoO0w7/P//f1FL00PY+qo4HObYBE2or4UiE70csnGpg=
 github.com/sectoken-dev/godashutil v0.0.0-20160725171742-2187ca894b87/go.mod h1:Zo3zU3kLCwcNEhmC3QxSr0ATfy0GW4DUi0IIqemWSd8=
+github.com/sectoken-dev/godashutil v0.0.0-20200423074243-b5e2b2b40bb7 h1:tXtCMFOHlbO56ApkYaz9ARRo8vXR5mjT4GN4uUUMrHw=
+github.com/sectoken-dev/godashutil v0.0.0-20200423074243-b5e2b2b40bb7/go.mod h1:4alb/EDvgCO/A9nMcwwgOkWAZSzAwmUjHo8JJjUzmjY=
 golang.org/x/net v0.0.0-20180906233101-161cd47e91fd h1:nTDtHvHSdCn1m6ITfMRqtOd/9+7a3s8RBNOZ3eYZzJA=
 golang.org/x/net v0.0.0-20180906233101-161cd47e91fd/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
 golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f h1:wMNYb4v58l5UBM7MYRLPG6ZhfOqbKu7X5eyFl8ZhKvA=

@@ -2,67 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b72787cb-720c-49e2-ad7b-c1aae851d161" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/blockchain/accept.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/accept.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/bench_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/bench_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/chain.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/chain.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/chain_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/chain_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/chainio.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/chainio.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/checkpoints.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/checkpoints.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/indexers/addrindex.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/indexers/addrindex.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/indexers/blocklogger.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/indexers/blocklogger.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/indexers/common.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/indexers/common.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/indexers/manager.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/indexers/manager.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/indexers/txindex.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/indexers/txindex.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/merkle.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/merkle.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/merkle_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/merkle_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/process.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/process.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/reorganization_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/reorganization_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/scriptval.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/scriptval.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/utxoviewpoint.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/utxoviewpoint.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/validate.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/validate.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain/validate_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain/validate_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocklogger.go" beforeDir="false" afterPath="$PROJECT_DIR$/blocklogger.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockmanager.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockmanager.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincfg/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/chaincfg/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaincfg/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/chaincfg/doc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/addblock/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/addblock/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/addblock/import.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/addblock/import.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/btcctl/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/btcctl/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/findcheckpoint/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/findcheckpoint/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/gencerts/gencerts.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/gencerts/gencerts.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpuminer.go" beforeDir="false" afterPath="$PROJECT_DIR$/cpuminer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/cmd/dbtool/globalconfig.go" beforeDir="false" afterPath="$PROJECT_DIR$/database/cmd/dbtool/globalconfig.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/cmd/dbtool/insecureimport.go" beforeDir="false" afterPath="$PROJECT_DIR$/database/cmd/dbtool/insecureimport.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/database/example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/ffldb/bench_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/database/ffldb/bench_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/ffldb/db.go" beforeDir="false" afterPath="$PROJECT_DIR$/database/ffldb/db.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/ffldb/driver_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/database/ffldb/driver_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/ffldb/interface_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/database/ffldb/interface_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/ffldb/whitebox_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/database/ffldb/whitebox_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/interface.go" beforeDir="false" afterPath="$PROJECT_DIR$/database/interface.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/json_rpc_api.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/json_rpc_api.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glide.lock" beforeDir="false" afterPath="$PROJECT_DIR$/glide.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glide.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/glide.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mempool.go" beforeDir="false" afterPath="$PROJECT_DIR$/mempool.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mining.go" beforeDir="false" afterPath="$PROJECT_DIR$/mining.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mining/mining.go" beforeDir="false" afterPath="$PROJECT_DIR$/mining/mining.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mining/policy.go" beforeDir="false" afterPath="$PROJECT_DIR$/mining/policy.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mining_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/mining_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/policy.go" beforeDir="false" afterPath="$PROJECT_DIR$/policy.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/policy_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/policy_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpcserver.go" beforeDir="false" afterPath="$PROJECT_DIR$/rpcserver.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpcwebsocket.go" beforeDir="false" afterPath="$PROJECT_DIR$/rpcwebsocket.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/txscript/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/txscript/example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/txscript/reference_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/txscript/reference_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/txscript/sign.go" beforeDir="false" afterPath="$PROJECT_DIR$/txscript/sign.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/txscript/sign_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/txscript/sign_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/txscript/standard.go" beforeDir="false" afterPath="$PROJECT_DIR$/txscript/standard.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/txscript/standard_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/txscript/standard_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +12,9 @@
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1avNXKf722tP7UKRyGJAQWMTxRD" />
   <component name="ProjectViewState">
@@ -86,14 +29,23 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <auto-vendoring-mode>false</auto-vendoring-mode>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="661" y="259" width="597" height="584" key="find.popup" timestamp="1587627353350">
+    <state x="461" y="169" key="SettingsEditor" timestamp="1587628062887">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="661" y="259" width="597" height="584" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1587627353350" />
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587628062887" />
+    <state x="661" y="259" width="597" height="584" key="find.popup" timestamp="1587628037823">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="661" y="259" width="597" height="584" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1587628037823" />
   </component>
 </project>
