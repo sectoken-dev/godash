@@ -16,7 +16,7 @@ import (
 	"github.com/sectoken-dev/godash/chaincfg"
 	"github.com/sectoken-dev/godash/database"
 	"github.com/sectoken-dev/godash/database/ffldb"
-	"github.com/sectoken-dev/godashutil"
+	"github.com/dashpay/godashutil"
 )
 
 // dbType is the database type name for this driver.

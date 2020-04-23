@@ -12,7 +12,7 @@ import (
 	"github.com/sectoken-dev/godash/btcec"
 	"github.com/sectoken-dev/godash/chaincfg"
 	"github.com/sectoken-dev/godash/wire"
-	"github.com/sectoken-dev/godashutil"
+	"github.com/dashpay/godashutil"
 )
 
 // RawTxInSignature returns the serialized ECDSA signature for the input idx of

@@ -12,7 +12,7 @@ import (
 	"github.com/sectoken-dev/godash/database"
 	"github.com/sectoken-dev/godash/txscript"
 	"github.com/sectoken-dev/godash/wire"
-	"github.com/sectoken-dev/godashutil"
+	"github.com/dashpay/godashutil"
 )
 
 // CheckpointConfirmations is the number of blocks before the end of the current

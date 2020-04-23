@@ -15,7 +15,7 @@ import (
 	"github.com/sectoken-dev/godash/database"
 	_ "github.com/sectoken-dev/godash/database/ffldb"
 	"github.com/sectoken-dev/godash/wire"
-	"github.com/sectoken-dev/godashutil"
+	"github.com/dashpay/godashutil"
 )
 
 const (

@@ -16,7 +16,7 @@ import (
 
 	flags "github.com/btcsuite/go-flags"
 	"github.com/sectoken-dev/godash/btcjson"
-	"github.com/sectoken-dev/godashutil"
+	"github.com/dashpay/godashutil"
 )
 
 const (

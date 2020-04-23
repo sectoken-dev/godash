@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/sectoken-dev/godash/blockchain"
-	"github.com/sectoken-dev/godashutil"
+	"github.com/dashpay/godashutil"
 )
 
 // TestMerkle tests the BuildMerkleTreeStore API.

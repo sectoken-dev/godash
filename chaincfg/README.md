@@ -26,7 +26,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/sectoken-dev/godashutil"
+	"github.com/dashpay/godashutil"
 	"github.com/sectoken-dev/godash/chaincfg"
 )
 

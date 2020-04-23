@@ -12,7 +12,7 @@ import (
 
 	"github.com/sectoken-dev/godash/chaincfg"
 	"github.com/sectoken-dev/godash/database"
-	"github.com/sectoken-dev/godashutil"
+	"github.com/dashpay/godashutil"
 )
 
 // BenchmarkBlockHeader benchmarks how long it takes to load the mainnet genesis

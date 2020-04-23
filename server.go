@@ -30,8 +30,8 @@ import (
 	"github.com/sectoken-dev/godash/peer"
 	"github.com/sectoken-dev/godash/txscript"
 	"github.com/sectoken-dev/godash/wire"
-	"github.com/sectoken-dev/godashutil"
-	"github.com/sectoken-dev/godashutil/bloom"
+	"github.com/dashpay/godashutil"
+	"github.com/dashpay/godashutil/bloom"
 )
 
 const (

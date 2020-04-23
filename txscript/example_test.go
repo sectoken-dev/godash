@@ -13,7 +13,7 @@ import (
 	"github.com/sectoken-dev/godash/chaincfg"
 	"github.com/sectoken-dev/godash/txscript"
 	"github.com/sectoken-dev/godash/wire"
-	"github.com/sectoken-dev/godashutil"
+	"github.com/dashpay/godashutil"
 )
 
 // This example demonstrates creating a script which pays to a bitcoin address.

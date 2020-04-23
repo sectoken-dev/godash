@@ -11,7 +11,7 @@ import (
 	"github.com/sectoken-dev/godash/blockchain"
 	"github.com/sectoken-dev/godash/chaincfg"
 	"github.com/sectoken-dev/godash/wire"
-	"github.com/sectoken-dev/godashutil"
+	"github.com/dashpay/godashutil"
 )
 
 // TestHaveBlock tests the HaveBlock API to ensure proper functionality.

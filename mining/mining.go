@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/sectoken-dev/godash/wire"
-	"github.com/sectoken-dev/godashutil"
+	"github.com/dashpay/godashutil"
 )
 
 // TxDesc is a descriptor about a transaction in a transaction source along with

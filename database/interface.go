@@ -10,7 +10,7 @@ package database
 
 import (
 	"github.com/sectoken-dev/godash/wire"
-	"github.com/sectoken-dev/godashutil"
+	"github.com/dashpay/godashutil"
 )
 
 // Cursor represents a cursor over key/value pairs and nested buckets of a

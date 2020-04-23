@@ -9,7 +9,7 @@ import (
 	"math"
 
 	"github.com/sectoken-dev/godash/wire"
-	"github.com/sectoken-dev/godashutil"
+	"github.com/dashpay/godashutil"
 )
 
 // nextPowerOfTwo returns the next highest power of two from a given number if

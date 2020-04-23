@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/sectoken-dev/godash/blockchain"
-	"github.com/sectoken-dev/godashutil"
+	"github.com/dashpay/godashutil"
 )
 
 // BenchmarkIsCoinBase performs a simple benchmark against the IsCoinBase
