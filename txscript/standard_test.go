@@ -13,7 +13,7 @@ import (
 
 	"github.com/sectoken-dev/godash/chaincfg"
 	"github.com/sectoken-dev/godash/txscript"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godashutil"
 )
 
 // decodeHex decodes the passed hex string and returns the resulting bytes.  It

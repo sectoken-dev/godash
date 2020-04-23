@@ -1,7 +1,7 @@
 package: github.com/sectoken-dev/godash
 import:
 - package: github.com/btcsuite/btclog
-- package: github.com/dashpay/godashutil
+- package: github.com/sectoken-dev/godashutil
   subpackages:
   - .
   - bloom

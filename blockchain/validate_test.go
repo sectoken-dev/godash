@@ -14,7 +14,7 @@ import (
 	"github.com/sectoken-dev/godash/blockchain"
 	"github.com/sectoken-dev/godash/chaincfg"
 	"github.com/sectoken-dev/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godashutil"
 )
 
 // TestCheckConnectBlock tests the CheckConnectBlock function to ensure it

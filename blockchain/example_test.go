@@ -15,7 +15,7 @@ import (
 	"github.com/sectoken-dev/godash/chaincfg"
 	"github.com/sectoken-dev/godash/database"
 	_ "github.com/sectoken-dev/godash/database/ffldb"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godashutil"
 )
 
 // This example demonstrates how to create a new chain instance and use

@@ -25,7 +25,7 @@
 //          "fmt"
 //          "log"
 //
-//          "github.com/dashpay/godashutil"
+//          "github.com/sectoken-dev/godashutil"
 //          "github.com/sectoken-dev/godash/chaincfg"
 //  )
 //

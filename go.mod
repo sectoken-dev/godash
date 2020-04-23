@@ -14,8 +14,9 @@ require (
 	github.com/btcsuite/websocket v0.0.0-20150119174127-31079b680792
 	github.com/btcsuite/winsvc v1.0.0
 	github.com/dashpay/godash v0.0.0-20160726055534-e038a21e0e3d // indirect
-	github.com/dashpay/godashutil v0.0.0-20160725171742-2187ca894b87
+	github.com/dashpay/godashutil v0.0.0-20160725171742-2187ca894b87 // indirect
 	github.com/davecgh/go-spew v0.0.0-20151105211317-5215b55f46b2
 	github.com/onsi/ginkgo v1.12.0 // indirect
 	github.com/onsi/gomega v1.9.0 // indirect
+	github.com/sectoken-dev/godashutil v0.0.0-20160725171742-2187ca894b87
 )

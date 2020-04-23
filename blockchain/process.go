@@ -10,7 +10,7 @@ import (
 
 	"github.com/sectoken-dev/godash/database"
 	"github.com/sectoken-dev/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godashutil"
 )
 
 // BehaviorFlags is a bitmask defining tweaks to the normal behavior when

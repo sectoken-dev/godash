@@ -18,7 +18,7 @@ import (
 
 	. "github.com/sectoken-dev/godash/txscript"
 	"github.com/sectoken-dev/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godashutil"
 )
 
 // testName returns a descriptive test name for the given reference test data.

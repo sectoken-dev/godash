@@ -38,7 +38,7 @@ import (
 	"github.com/sectoken-dev/godash/mining"
 	"github.com/sectoken-dev/godash/txscript"
 	"github.com/sectoken-dev/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godashutil"
 )
 
 const (

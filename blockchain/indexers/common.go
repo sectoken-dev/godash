@@ -13,7 +13,7 @@ import (
 
 	"github.com/sectoken-dev/godash/blockchain"
 	"github.com/sectoken-dev/godash/database"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godashutil"
 )
 
 var (

@@ -7,7 +7,7 @@ package txscript
 
 import (
 	"github.com/sectoken-dev/godash/chaincfg"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godashutil"
 )
 
 const (

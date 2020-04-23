@@ -11,7 +11,7 @@ import (
 	"github.com/sectoken-dev/godash/database"
 	"github.com/sectoken-dev/godash/txscript"
 	"github.com/sectoken-dev/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godashutil"
 )
 
 // utxoOutput houses details about an individual unspent transaction output such

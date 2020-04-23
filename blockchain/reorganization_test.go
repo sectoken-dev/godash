@@ -16,7 +16,7 @@ import (
 
 	"github.com/sectoken-dev/godash/blockchain"
 	"github.com/sectoken-dev/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/sectoken-dev/godashutil"
 )
 
 // TestReorganization loads a set of test blocks which force a chain
