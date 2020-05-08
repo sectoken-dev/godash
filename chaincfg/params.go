@@ -354,9 +354,9 @@ var (
 // parameters based on inputs and work regardless of the network being standard
 // or not.
 func Register(params *Params) error {
-	if _, ok := registeredNets[params.Net]; ok {
-		return ErrDuplicateNet
-	}
+	// if _, ok := registeredNets[params.Net]; ok {
+	// 	return ErrDuplicateNet
+	// }
 	registeredNets[params.Net] = struct{}{}
 	pubKeyHashAddrIDs[params.PubKeyHashAddrID] = struct{}{}
 	scriptHashAddrIDs[params.ScriptHashAddrID] = struct{}{}
